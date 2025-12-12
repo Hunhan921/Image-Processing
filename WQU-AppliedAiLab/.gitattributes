@@ -1,3 +1,5 @@
 *.path filter=lfs diff=lfs merge=lfs -text
 *.pth filter=lfs diff=lfs merge=lfs -text
 model/* filter=lfs diff=lfs merge=lfs -text
+Project1/model/shallownet filter=lfs diff=lfs merge=lfs -text
+Project1/model/deepnet filter=lfs diff=lfs merge=lfs -text
