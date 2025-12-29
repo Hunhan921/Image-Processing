@@ -1,0 +1,3 @@
+## Start using `pathlib`
+
+The `pathlib` module in Python provides an elegant interface for working with file system paths. The `pathlib` module offers many advantages over the older `os.path` way, such as a consistent way to handle paths across different operating systems. The `pathlib` module does this by treating paths as objects rather than strings. The module also provides methods for common file operations, making tasks like listing directory contents, creating directories, and searching for files more straightforward.
